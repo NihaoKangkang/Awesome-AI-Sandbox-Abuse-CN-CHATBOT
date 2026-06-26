@@ -31,7 +31,7 @@
 - 简单轻量，方便二次开发
 - 可用于 Sandbox 生命周期研究
 
-## 🚀 Quick Start (建议使用virtual environment进行使用)
+## 🚀 Quick Start (建议使用virtual environment)
 ```
 git clone https://github.com/NihaoKangkang/AI-Sandbox-KeepAlive-Automation.git
 cd AI-Sandbox-KeepAlive-Automation
