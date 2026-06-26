@@ -1,4 +1,4 @@
-# Awesome AI Sandbox Abuse CN Chatbot
+# AI-Sandbox-KeepAlive-Automation
 
 `🤖 Automatic Conversation Script for Maintaining AI Sandbox Sessions`
 
@@ -31,11 +31,12 @@
 - 简单轻量，方便二次开发
 - 可用于 Sandbox 生命周期研究
 
-## 🚀 Quick Start
+## 🚀 Quick Start (建议使用virtual environment进行使用)
 ```
-git clone https://github.com/NihaoKangkang/Awesome-AI-Sandbox-Abuse-CN-CHATBOT.git
-cd Awesome-AI-Sandbox-Abuse-CN-CHATBOT
+git clone https://github.com/NihaoKangkang/AI-Sandbox-KeepAlive-Automation.git
+cd AI-Sandbox-KeepAlive-Automation
 pip install -r requirements.txt
+playweight install
 python3 main.py
 ```
 
